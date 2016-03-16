@@ -287,6 +287,11 @@ AFkGfVFb7jtXAAAAAElFTkSuQmCC
 <MD5>aaf8ab5cb6b14b29d3ebc8cbb7fa4d29</MD5>
 </FILE>
 
+<FILE Name="&plugin;/packages/pv-1.4.12-x86_64-1_slack.txz" Run="/sbin/upgradepkg --install-new">
+<URL>&repo;/packages/pv-1.4.12-x86_64-1_slack.txz</URL>
+<MD5>0a5949910f50511eb61dbce61462dac4</MD5>
+</FILE>
+
 
 <!-- PLUGIN REMOVAL SCRIPT -->
 <FILE Run="/bin/bash" Method="remove">
